@@ -22,17 +22,11 @@
     padding: var(--space-3);
 }
 
-
-
-
-
-
 .sku-table-container {
     width: 100%;
     overflow-x: auto; 
     margin-top: var(--space-4);
     border-radius: 8px;
-    /* border-color: solid 1px var(--color-border); */
 }
 
 /* basic table styles */
