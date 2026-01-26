@@ -54,8 +54,8 @@
 }
 
 /* hover effect on rows */
-.sku-table tbody tr:hover {
-    background-color: #f5faff;
+.sku-table tbody tr:hover td {
+    background-color: var(--color-fill-light);
 }
 
 /* action buttons */
