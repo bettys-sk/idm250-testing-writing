@@ -21,6 +21,7 @@
     border: solid 1px var(--color-border);
     border-radius: 8px;
     padding: var(--space-3);
+    background-color: #CFEFFF;
 }
 
 .sku-table-container {

@@ -309,11 +309,11 @@ p {
   gap: var(--space-3);
 }
 
-
 .nav-item {
   padding: var(--space-3);
   border-radius: 8px;
   cursor: pointer;
+  border: 1px solid transparent;
 }
 
 .nav-item:hover {
