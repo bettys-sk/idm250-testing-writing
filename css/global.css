@@ -41,6 +41,7 @@ h1, h2, h3, h4, h5, h6, p {
   --color-fill-base: #FCFCFC;
   --color-border: #EBEBEB;
   --color-action: #FC5454;
+  --color-background-color: #FAFAFA;
 
   /* typography */
   --font-family-base: 'Satoshi', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
@@ -70,7 +71,7 @@ body {
   font-family: var(--font-family-base);
   font-size: var(--fs-body);
   color: var(--color-text-body);
-  background-color: #fff;
+  background-color: var(--color-background-color);
 }
 
 h1 {
